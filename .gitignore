@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env.local
+*.log
+.DS_Store
+coverage/
+build/
+.history/
+.next/
+package-lock.json
+tsconfig.json
+next-env.d.ts
