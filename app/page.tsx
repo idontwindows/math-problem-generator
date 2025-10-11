@@ -91,7 +91,11 @@ export default function Home() {
                   id="answer"
                   value={userAnswer}
                   onChange={(e) => setUserAnswer(e.target.value)}
+<<<<<<< HEAD
                   className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent text-black"
+=======
+                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+>>>>>>> f93cf5e (initial commit)
                   placeholder="Enter your answer"
                   required
                   step="0.01"
