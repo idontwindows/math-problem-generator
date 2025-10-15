@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Math Problem Generator
 
 This is a full-stack web application that generates math word problems for Singapore Primary 5 students, aligned with the 2021 MOE syllabus. Users can generate problems, submit answers, and receive AI-generated feedback. Built with Next.js, TypeScript, Tailwind CSS, Supabase, and Google Gemini AI.
